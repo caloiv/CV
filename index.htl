@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Currículum - Tu Nombre</title>
+    <style>
+        body { font-family: Arial; text-align: center; background-color: #f4f4f4; }
+        .card { background: white; padding: 40px; margin: 50px auto; width: 350px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        img { width: 150px; border-radius: 50%; }
+        a { display: block; margin: 15px; padding: 10px; background: #0077cc; color: white; text-decoration: none; border-radius: 5px; }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <img src="foto.jpg" alt="Tu Foto">
+    <h2>Tu Nombre</h2>
+    <p>Técnico en Sistemas</p>
+
+    <a href="formacion.html">Formación</a>
+    <a href="actividad.html">Actividad Laboral</a>
+    <a href="experiencia.html">Experiencia Laboral</a>
+</div>
+
+</body>
+</html>
