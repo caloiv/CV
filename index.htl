@@ -16,9 +16,9 @@
     <h2>Tu Nombre</h2>
     <p>Técnico en Sistemas</p>
 
-    <a href="formacion.html">Formación</a>
-    <a href="actividad.html">Actividad Laboral</a>
-    <a href="experiencia.html">Experiencia Laboral</a>
+    <a href="Formacion.html">Formación</a>
+    <a href="Descripción_Laboral.html">Descripcion Laboral</a>
+    <a href="Experiencia_Laboral.html">Experiencia Laboral</a>
 </div>
 
 </body>
